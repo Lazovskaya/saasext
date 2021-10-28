@@ -1,0 +1,11 @@
+{
+  "": {
+    "ID": "Identity",
+    "region": "Region",
+    "country": "Country",
+    "countries": "Countries",
+    "amount": "Amount",
+    "comments": "Comments",
+    "boost": "Boost"
+  }
+}
